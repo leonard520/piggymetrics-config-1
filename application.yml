@@ -1,4 +1,4 @@
-secretMenu: 123
+secretMenu: '{cipher}aa03328f91335569344dd0f07a07550ddf082ae499cd98fd418f29e50317d9d8'
 hystrix:
   command:
     default:
