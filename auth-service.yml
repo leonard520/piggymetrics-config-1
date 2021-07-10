@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      database: piggymetrics
+      database: piggymetrics2
 
 server:
   servlet:
