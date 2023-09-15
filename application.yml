@@ -4,7 +4,8 @@ hystrix:
       execution:
         isolation:
           thread:
-            timeoutInMilliseconds: 0702
+            timeoutInMilliseconds: 0712
+            password: @712
 
 feign:
   client:
