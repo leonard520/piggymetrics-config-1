@@ -5,6 +5,7 @@ hystrix:
         isolation:
           thread:
             timeoutInMilliseconds: 20000
+            number: 1
 
 feign:
   client:
