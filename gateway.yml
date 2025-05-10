@@ -8,6 +8,7 @@ hystrix:
 
 ribbon:
   ReadTimeout: 20000
+  WriteTimeout: 10000
   ConnectTimeout: 20000
 
 zuul:
